@@ -43,8 +43,8 @@ try:
     sign_in_button = WebDriverWait(driver, 1).until(
         EC.presence_of_element_located((By.ID, "mainButton"))
     )
-    email = "bghafoor@gmu.edu"
-    password = "Escape961A"
+    email = "your_email"
+    password = "your_password"
     email_input.send_keys(email)
     password_input.send_keys(password)
     sign_in_button.click()

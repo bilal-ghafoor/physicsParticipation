@@ -28,8 +28,8 @@ except:
     pass
 
 # Input email and password
-email = "bghafoor@gmu.edu"
-password = "Escape961A"
+email = "your_email"
+password = "your_password"
 
 # Wait for the email input field to appear
 email_input = WebDriverWait(driver, 5).until(
