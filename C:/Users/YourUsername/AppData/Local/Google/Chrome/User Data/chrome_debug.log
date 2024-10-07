@@ -1,0 +1,8 @@
+[24286:259:1007/112429.514844:WARNING:chrome_main_delegate.cc(747)] This is Chrome version 129.0.6668.90 (not a warning)
+[24286:259:1007/112429.753310:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[24286:259:1007/112430.769705:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://login.pearson.com/v1/piapi/piui/signin?client_id=xHvGeBh8KSCW46fcrluqzXmSQRLTNWyF&login_success_url=https:%2F%2Flearningcatalytics.com%2Fpi_login&siteid=252444 (0)
+[24286:259:1007/112431.146913:INFO:CONSOLE(1)] "DCE IES/Channels GTM Loaded", source:  (1)
+[24286:259:1007/112443.530627:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+[24286:259:1007/112443.532619:ERROR:gpu_process_host.cc(980)] GPU process exited unexpectedly: exit_code=15
+[24286:259:1007/112443.532644:WARNING:gpu_process_host.cc(1414)] The GPU process has crashed 1 time(s)
+[24286:259:1007/112443.538220:WARNING:sad_tab.cc(255)] Tab Killed: https://login.pearson.com/
